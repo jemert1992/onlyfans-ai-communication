@@ -1,2 +1,2 @@
--r backend/requirements.txt
+-r code_package/backend/requirements.txt
 gunicorn==20.1.0
